@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: light
+  mode: dark
   color: indigo
 
 # SEO
@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.png"
     button:
       enable: false
       text: "Get Started"
@@ -46,8 +46,8 @@ header:
 
 # Site footer
 footer:
-  copyright:
-    notice: "©{year} Collectivae"
+  # copyright:
+    # notice: "©{year} Collectivae"
 
 # Localization
 locale:

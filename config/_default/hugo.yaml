@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Creator's Landing Page | Hugo Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Collectivae
+baseURL: "https://collectivae.github.io/"
 
 ############################
 ## PAGE OPTIONS
@@ -18,11 +18,11 @@ cascade:
     pager: true
     editable: true
     hide_date: false
-    show_date_updated: true
-    reading_time: true
-    commentable: true
-    show_related: true
-    share: true
+    show_date_updated: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    share: false
     # Just use Breadcrumb for navigation on blog post pages?
     show_breadcrumb: false
     header:

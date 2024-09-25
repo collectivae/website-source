@@ -1,0 +1,4 @@
+/* hide published with hugo footer */
+#top > div.page-footer > footer > p {
+    display: none;
+}

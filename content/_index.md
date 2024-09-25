@@ -29,27 +29,27 @@ sections:
     id: solutions
     content:
       items:
-        - title: Decentralized Basic Poll
+        - title: Decentralized Basic Poll (upcoming)
           features:
             - "Community adds new poll's selections"
             - "Vote on added selections"
             - "Add more selections"
             - "Refine Voting"
           image: build-website.png
-          button:
-            text: Video (Soon)
-            url: #
-        # - title: Voting by Natural Text
-        #   features:
-        #     - "Chat naturally"
-        #     - "Opinions summarized"
-        #     - "Vote on them"
-        #     - "Refine Opinions"
-        #     - "Collectively Decide"
-        #   image: build-website.png
-        #   button:
-        #     text: Video (Soon)
-        #     url: #
+          # button:
+          #   text: Video (Soon)
+          #   url: #
+        - title: Voting by Natural Text (upcoming)
+          features:
+            - "Chat naturally"
+            - "Opinions summarized"
+            - "Vote on them"
+            - "Refine Opinions"
+            - "Collectively Decide"
+          image: build-website.png
+          # button:
+          #   text: Video (Soon)
+          #   url: #
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"

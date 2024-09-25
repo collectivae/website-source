@@ -11,6 +11,7 @@ date: 2024-09-25
 - We are not looking forward to your experience or skills.
 - We are hunting candidates who are imaginative of a better future, passionate to tackle what no one thinks of, and adaptive to new domains.
 - Students and fresh-graduates are encouraged to apply.
+- Candidates with backgrounds of Physics, Pure Math, Applied Statistics, and Economics are encouraged to apply.
 - The tasks are not well-specified, to give candidates more freedom to express themselves.
 
 

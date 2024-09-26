@@ -22,7 +22,6 @@ date: 2024-09-25
 - Check Meta's paper: [The Scientific Method in the Science of Machine Learning](https://ai.meta.com/research/publications/the-scientific-method-in-the-science-of-machine-learning/).
 - Write a simple jupyter notebook showcasing the scientific method on any dataset of your choice.
 - Synthetic data are allowed.
-- Use [this](https://htmtopdf.herokuapp.com/ipynbviewer/) to convert the notebook to PDF.
 
 ### Mathematician
 
@@ -52,6 +51,8 @@ date: 2024-09-25
 ## Submission
 
 ### [Here](https://forms.gle/P5JKSpPX6g9N4C47A)
+
+Please don't submit any Microsoft Office file.
 
 ## Question?
 

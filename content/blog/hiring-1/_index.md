@@ -6,14 +6,22 @@ date: 2024-09-25
 
 ![](./featured.jpg)
 
-## Philosophy
+## Prelude
+
+We believe innovation comes from the intersections of fresh multidisciplinary perspectives. We are hunting special unique talents. With freedom empowerment and the ownership value, We will succeed. 
+
+## Qualifications
 
 - We are not looking forward to your experience or skills.
 - We are hunting candidates who are imaginative of a better future, passionate to tackle what no one thinks of, and adaptive to new domains.
 - Students and fresh-graduates are encouraged to apply.
 - Candidates with backgrounds of Physics, Pure Math, Applied Statistics, or Economics are encouraged to apply.
-- The tasks are not well-specified, to give candidates more freedom to express themselves.
 
+## Responsibility
+
+- **Science.** Solution design, scientific modeling, implementation, and validation of small models. Mainly using Python, and possibly Julia.
+- **Engineering.** Solution design, implementation, and quality testing of small apps. Mainly using Python or javascript, and possibly ocaml.
+- **Business.** Listening and responding to customer feedbacks, and aligning them with the technical team flow.
 
 ## Tasks
 

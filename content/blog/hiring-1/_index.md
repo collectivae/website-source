@@ -35,7 +35,7 @@ We believe innovation comes from the intersections of fresh multidisciplinary pe
 
 - Check Silverman's book: [A Friendly Introduction to Number Theory](https://www.math.brown.edu/johsilve/frint.html).
 - Select any exercise and solve it.
-- Enlishtning short proofs are preferred.
+- Enlightning short proofs are preferred.
 
 ### Futurist
 
